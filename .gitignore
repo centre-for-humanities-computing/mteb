@@ -141,3 +141,4 @@ dmypy.json
 
 # error logs
 error_logs.txt
+mteb/tasks/Retrieval/test_swefaq.py
